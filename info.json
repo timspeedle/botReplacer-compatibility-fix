@@ -1,0 +1,14 @@
+{
+    "name": "botReplacer-compatibility-fix",
+    "author": "timspeedle",
+    "contact": "Discord: timspeedle",
+    "version": "1.0.0",
+    "factorio_version": "1.1",
+    "homepage": "https://github.com/timspeedle/botReplacer-compatibility-fix",
+    "title": "Robot Replacer - Compatibility Fix",
+    "description": "This mod fixes compatibility issues between Robot Replacer and other mods.",
+    "dependencies": [
+      "base >= 1.1.0",
+      "? botReplacer >= 1.1.2"
+    ]
+}

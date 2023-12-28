@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-12-27
+  Compatibility Fixes:
+    - All The Overhauls Modpack | SE + K2 + 248k + BZ + More:
+      - Added icon_size to the entity and item created for `logistic-chest-botUpgrader`
+  Uploaded by:
+    - timspeedle
